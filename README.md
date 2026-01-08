@@ -1,5 +1,7 @@
 # Project Ideas – Learn by Doing
 
+---
+
 Project ideas are a collection of practical projects grouped into different skill levels, such as
 
 - entry-level
@@ -15,3 +17,5 @@ The biggest benefit of project-based learning is stronger memory retention. You 
 As a result, when you face real-world problems or complex challenges, you can easily recall what you have learned and apply it confidently. Project-based learning turns knowledge into experience, and experience into long-term understanding.
 
 Happy Learning !!
+
+---
