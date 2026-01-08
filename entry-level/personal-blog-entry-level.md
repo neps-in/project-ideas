@@ -2,6 +2,10 @@
 
 ---
 
+![Mockup for Personal blog entry level](./mockup-for-personal-blog.png "Title")
+
+---
+
 ### Guest Section - No login required
 
 The guest section includes pages that are accessible to all users:
