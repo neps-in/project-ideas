@@ -25,5 +25,3 @@ The admin section consists of pages that are accessible only to administrators a
 - **Edit Article Page**: Contains a form for updating an existing article, with fields for title, content, and publication date.
 
 ---
-
-The following mockups illustrate the layout and structure of the different pages in the blog.

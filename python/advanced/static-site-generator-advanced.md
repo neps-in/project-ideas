@@ -1,3 +1,11 @@
+# Goal to accomplish:
+
+1. To learn about File I/O read write operation.
+2. To learn about commandline arguments processing.
+3. To learn about Parser and parsing techniques.
+
+---
+
 # Static Site Generator
 
 A static site generator is a tool that helps you build a website using simple files like text or Markdown instead of a database.

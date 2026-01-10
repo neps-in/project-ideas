@@ -16,6 +16,12 @@ The biggest benefit of project-based learning is stronger memory retention. You 
 
 As a result, when you face real-world problems or complex challenges, you can easily recall what you have learned and apply it confidently. Project-based learning turns knowledge into experience, and experience into long-term understanding.
 
+---
+
+You may **Watch** this project as I would be adding more project ideas every now and then.
+
+---
+
 Happy Learning !!
 
 ---
