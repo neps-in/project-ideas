@@ -1,4 +1,4 @@
-# Comprehensive yet simple list of features of a basic static site generator\*\*, written in clear and easy-to-understand terms.
+# Comprehensive yet simple list of features of a basic static site generator.
 
 ---
 
@@ -59,11 +59,3 @@
     Works well for blogs, documentation sites, and portfolio websites.
 
 ---
-
-If you want, I can also provide:
-
-- A **feature comparison** with CMS platforms like WordPress
-- A **real-world example** using a popular static site generator
-- A **beginner-friendly project idea** using a static site generator
-
-Just let me know.
